@@ -2,12 +2,16 @@
 
 Exploring open-source work in Web3 payments and AI-agent identity.
 
-[GitHub](https://github.com/aijaz52) · [X @engnraijaz](https://x.com/engnraijaz)
+[GitHub](https://github.com/aijaz52) · [X @engnraijaz](https://x.com/engnraijaz) · [Make.fun](https://make.fun/)
 
 ## Focus
 
 - Stablecoin payment integrations, including USDT and USDC
 - Decentralized identity (DID) and verifiable identities for AI agents
+
+## Make.fun
+
+I use [Make.fun](https://make.fun/) to explore coding challenges and bounties.
 
 ## Repositories I'm exploring
 
