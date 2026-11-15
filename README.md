@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aijaz
 
-<!--
-**aijaz52/aijaz52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring open-source work in Web3 payments and AI-agent identity.
 
-Here are some ideas to get you started:
+[GitHub](https://github.com/aijaz52) · [X @engnraijaz](https://x.com/engnraijaz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Stablecoin payment integrations, including USDT and USDC
+- Decentralized identity (DID) and verifiable identities for AI agents
+
+## Repositories I'm exploring
+
+| Repository | What it covers | Upstream project |
+| --- | --- | --- |
+| [USDT-Payment-Gateway](https://github.com/aijaz52/USDT-Payment-Gateway) | Multi-chain stablecoin payment docs and merchant demos | [DigitalShieldOfficial/USDT-Payment-Gateway](https://github.com/DigitalShieldOfficial/USDT-Payment-Gateway) |
+| [verified-agent-identity](https://github.com/aijaz52/verified-agent-identity) | DID identity tooling for AI agents | [BillionsNetwork/verified-agent-identity](https://github.com/BillionsNetwork/verified-agent-identity) |
+
+Both repositories are forks. Original authorship, project history, and upstream maintenance belong to the linked source projects; follow those links for the canonical versions and contribution guidance.
